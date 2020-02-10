@@ -19,5 +19,31 @@ export default {
 </script>
 
 <style scoped>
+    .login {
+        margin-top: 40px;
+    }
 
+    input {
+        margin: 10px 0;
+        width: 20%;
+        padding: 15px;
+    }
+
+    button {
+        margin-top: 20px;
+        width: 20%;
+        cursor: pointer;
+        font-weight: 200;
+        background: #41B883;
+    }
+
+    p {
+        margin-top: 40px;
+        font-size: 13px;
+    }
+
+    p a {
+        text-decoration: none;
+        cursor: pointer;
+    }
 </style>
