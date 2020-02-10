@@ -14,7 +14,11 @@ export default {
     data() {
         return {};
     },
-    methods: {}
+    methods: {
+        login: function() {
+            this.$router.replace('home');
+        }
+    }
 }
 </script>
 
