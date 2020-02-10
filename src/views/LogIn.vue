@@ -35,6 +35,7 @@ export default {
         cursor: pointer;
         font-weight: 200;
         background: #41B883;
+        color: white;
     }
 
     p {

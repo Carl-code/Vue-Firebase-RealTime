@@ -32,6 +32,8 @@ export default {
         margin-top: 10px;
         width: 10%;
         cursor: pointer;
+        background: #41B883;
+        color: white;
     }
 
     span {
